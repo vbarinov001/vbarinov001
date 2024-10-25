@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Introducing Myself 
 
-<!--
-**vbarinov001/vbarinov001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Venya Barinov. Aspiring Data analyst with experience in data analysis and reporting, query optimization, database design, and data modeling.
 
-Here are some ideas to get you started:
+- Querying data using SQL.
+- Generating reports and performing ad-hoc data analysis using SQL and Python.
+- Developing dashboards on Power BI.
+- Data analysis and reporting using Google Sheets and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Welcome to my portfolio where I showcase my [projects](https://github.com/vbarinov001/Portfolio-Guide).
+
+### 🛠 Tools
+
+- Language: SQL, Python
+- Database: PostegreSQL, MySQL
+- Visualization: Power BI
+
+### 💡 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/venyab).

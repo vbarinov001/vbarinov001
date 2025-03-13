@@ -1,6 +1,6 @@
 ## 👋 Introducing Myself 
 
-Hello, my name is Venya Barinov. Aspiring Data analyst with experience in data analysis and reporting, query optimization, database design, and data modeling.
+Hello, my name is Venya Barinov. Data / Business Analyst Professional with experience in data analysis and reporting, query optimization, database design, and data modeling.
 
 - Querying data using SQL.
 - Generating reports and performing ad-hoc data analysis using SQL and Python.
